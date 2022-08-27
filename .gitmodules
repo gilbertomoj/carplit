@@ -1,0 +1,6 @@
+[submodule "carplit-frontend"]
+	path = carplit-frontend
+	url = https://github.com/joaomadruga/carplit-frontend.git
+[submodule "carplit-backend"]
+	path = carplit-backend
+	url = https://github.com/joaomadruga/carplit-backend.git

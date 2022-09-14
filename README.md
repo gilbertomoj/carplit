@@ -94,3 +94,5 @@ Baseado no SCRUM fazemos encontros semanais para alinhamento de ideias, planejam
 - [Notion](https://majestic-iguanodon-1ef.notion.site/Carplit-45357668df2241ed89df9be8335cc62c)
 
 - [Apresentação Pitch](https://docs.google.com/presentation/d/1Q-Kd_0Us4Hjw7TkxjH17AzH425KhfQq1tzYCENAqAy8/edit?usp=sharing)
+
+- [Primeira iteração](https://docs.google.com/presentation/d/1MLZMfDtYAO5OALm1oaDrLu6FWIpJ5yJ2bSGKzbGI_Ok/edit?usp=sharing)

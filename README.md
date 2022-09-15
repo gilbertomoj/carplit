@@ -96,3 +96,5 @@ Baseado no SCRUM fazemos encontros semanais para alinhamento de ideias, planejam
 - [Apresentação Pitch](https://docs.google.com/presentation/d/1Q-Kd_0Us4Hjw7TkxjH17AzH425KhfQq1tzYCENAqAy8/edit?usp=sharing)
 
 - [Primeira iteração](https://docs.google.com/presentation/d/1MLZMfDtYAO5OALm1oaDrLu6FWIpJ5yJ2bSGKzbGI_Ok/edit?usp=sharing)
+
+- [Post Mortem 1](https://majestic-iguanodon-1ef.notion.site/Post-Mortem-1-785e5b10451a4dcfa67b698fad66fc01)

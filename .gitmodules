@@ -3,4 +3,4 @@
 	url = https://github.com/joaomadruga/carplit-frontend.git
 [submodule "carplit-backend"]
 	path = carplit-backend
-	url = https://github.com/thaisdk/carplit-backend
+	url = https://github.com/gilbertomoj/carplit-backend.git

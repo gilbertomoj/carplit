@@ -27,7 +27,8 @@ Tecnologias utilizadas na realização do projeto:
 
 
 ### Backend
-- [Python](https://www.python.org/)
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/)
 
 ## 💻 Executando aplicação localmente
 ### Frontend
@@ -41,32 +42,21 @@ $ yarn install
 $ expo start
 ```
 ### Backend
-Para automatização de tarefas foram criados scripts com os comandos mais utilizados.
-
-### (Opcional) Criar um ambiente virtual
-
 ```bash
-# Intalando dependências e cria o ambiente
-$ make setup_venv
-```
-### Instalação padrão
-
-```bash
-# Instalando dependencies e rodando migrações do banco de dados
-$ make setup_install
+# Intalando dependências
+$ yarn install
 ```
 
 ```bash
-# Rodando localmente
-$ make run
-```
+# Executando a aplicação
+$ yarn start
 
 ## 🚨 Testes
 ### Frontend
 - [jest](https://jestjs.io/)
 
 ### Backend
-- [Pytest](https://docs.pytest.org/en/7.1.x/)
+- [jest](https://jestjs.io/)
   
 ## 👨‍🏫 Instrutor
 **Professor** [Vinicius Cardoso Garcia](https://viniciusgarcia.me/) (vcg@cin.ufpe.br)

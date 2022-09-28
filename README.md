@@ -50,6 +50,7 @@ $ yarn install
 ```bash
 # Executando a aplicação
 $ yarn start
+```
 
 ## 🚨 Testes
 ### Frontend

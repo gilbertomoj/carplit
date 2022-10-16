@@ -1,5 +1,6 @@
 # Carplit 🚗
-Organizando suas caronas!
+
+![App Screenshot](https://i.imgur.com/3UmaMjU.jpeg)
 
 ## 📕 Sobre
 
@@ -13,21 +14,31 @@ Tecnologias utilizadas na realização do projeto:
 ### Frontend
 - [Expo](https://expo.io/)
 - [React Native](https://reactnative.dev)
+- [Vercel](https://vercel.com/)
 
 ### Backend
 - [Django](https://www.djangoproject.com/)
 - [Django REST Framework](https://www.django-rest-framework.org/)
 
+## 📁 Versões
+
+Deploys disponíveis do projeto:
+
+- [Google Play](https://play.google.com/)
+
+- [Web](https://carplit.me)
 
 ## ⚙ Requisitos
 
 ### Frontend
 - [Node.js](https://nodejs.org/en/)
+
 - [Yarn](https://yarnpkg.com/)
 
 
 ### Backend
 - [Node.js](https://nodejs.org/en/)
+
 - [Yarn](https://yarnpkg.com/)
 
 ## 💻 Executando aplicação localmente
@@ -39,7 +50,10 @@ $ yarn install
 
 ```bash
 # Executando a aplicação
-$ expo start
+$ npx expo start
+
+# Executando a aplicação no web
+$ npx expo start:web
 ```
 ### Backend
 ```bash
@@ -56,13 +70,18 @@ $ yarn start
 ### Frontend
 - [jest](https://jestjs.io/)
 
+```bash
+# Rodando testes
+$ yarn test
+```
+
 ### Backend
 - [jest](https://jestjs.io/)
   
 ## 👨‍🏫 Instrutor
 **Professor** [Vinicius Cardoso Garcia](https://viniciusgarcia.me/) (vcg@cin.ufpe.br)
 
-## 👥 Autores
+## 👥 Time
 
 **Gilberto Medeiros** - (gmoj2@cin.ufpe.br)
 
@@ -81,6 +100,8 @@ Utilizamos o quadro Kanban no Notion para ajudar na divisão e organização das
 Baseado no SCRUM fazemos encontros semanais para alinhamento de ideias, planejamento e review da sprint.
 
 ## 🔗 Entregas
+
+- [Figma](https://www.figma.com/file/U9tinXc4aVHqbAsJaMtkMw/Carplit?node-id=0%3A1)
 
 - [Notion](https://majestic-iguanodon-1ef.notion.site/Carplit-45357668df2241ed89df9be8335cc62c)
 

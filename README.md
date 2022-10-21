@@ -24,7 +24,7 @@ Tecnologias utilizadas na realização do projeto:
 
 Deploys disponíveis do projeto:
 
-- [Google Play](https://play.google.com/)
+- [Google Play](https://play.google.com/store/apps/details?id=com.carplit)
 
 - [Web](https://carplit.me)
 
